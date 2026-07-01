@@ -1,0 +1,159 @@
+{
+  "maps": [
+    {
+      "map_name": "default",
+      "pos_x": -2476,
+      "pos_y": 3239,
+      "scale": 4.4
+    },
+    {
+      "map_name": "ar_baggage",
+      "pos_x": -1316,
+      "pos_y": 1288,
+      "scale": 2.539062,
+      "AltitudeMax": 10000,
+      "AltitudeMin": -5
+    },
+    {
+      "map_name": "ar_shoots",
+      "pos_x": -1368,
+      "pos_y": 1952,
+      "scale": 2.687500
+    },
+    {
+      "map_name": "ar_shoots_night",
+      "pos_x": -1368,
+      "pos_y": 1952,
+      "scale": 2.687500
+    },
+    {
+      "map_name": "ar_pool_day",
+      "pos_x": -1088,
+      "pos_y": 1600,
+      "scale": 2.125000
+    },
+    {
+      "map_name": "cs_italy",
+      "pos_x": -2647,
+      "pos_y": 2592,
+      "scale": 4.6
+    },
+    {
+      "map_name": "cs_office",
+      "pos_x": -1838,
+      "pos_y": 1858,
+      "scale": 4.1
+    },
+    {
+      "map_name": "cs_alpine",
+      "pos_x": -2107.1584,
+      "pos_y": 4687.119,
+      "scale": 6.5296063,
+      "AltitudeMax": 16384,
+      "AltitudeMin": -16384
+    },
+    {
+      "map_name": "de_ancient",
+      "pos_x": -2953,
+      "pos_y": 2164,
+      "scale": 5
+    },
+    {
+      "map_name": "de_ancient_night",
+      "pos_x": -2953,
+      "pos_y": 2164,
+      "scale": 5
+    },
+    {
+      "map_name": "de_anubis",
+      "pos_x": -2796,
+      "pos_y": 3328,
+      "scale": 5.22
+    },
+    {
+      "map_name": "de_dust2",
+      "pos_x": -2476,
+      "pos_y": 3239,
+      "scale": 4.4
+    },
+    {
+      "map_name": "de_inferno",
+      "pos_x": -2087,
+      "pos_y": 3870,
+      "scale": 4.9
+    },
+    {
+      "map_name": "de_mirage",
+      "pos_x": -3230,
+      "pos_y": 1713,
+      "scale": 5
+    },
+    {
+      "map_name": "de_nuke",
+      "pos_x": -3453,
+      "pos_y": 2887,
+      "scale": 7
+    },
+    {
+      "map_name": "de_overpass",
+      "pos_x": -4831,
+      "pos_y": 1781,
+      "scale": 5.2
+    },
+    {
+      "map_name": "de_vertigo",
+      "pos_x": -3168,
+      "pos_y": 1762,
+      "scale": 4
+    },
+    {
+      "map_name": "de_warden",
+      "pos_x": -3150.9443,
+      "pos_y": 2681.3335,
+      "scale": 5.642361
+    },
+    {
+      "map_name": "de_cache",
+      "pos_x": -2000,
+      "pos_y": 3250,
+      "scale": 5.5
+    },
+    {
+      "map_name": "de_poseidon",
+      "pos_x": -1046.3943,
+      "pos_y": 1166.3942,
+      "scale": 3.0124886
+    },
+    {
+      "map_name": "de_sanctum",
+      "pos_x": -1692.2153,
+      "pos_y": 654.57465,
+      "scale": 3.4071784
+    },
+    {
+      "map_name": "de_train",
+      "pos_x": -2308,
+      "pos_y": 2078,
+      "scale": 4.082077,
+      "AltitudeMax": 20000,
+      "AltitudeMin": -50
+    },
+    {
+      "map_name": "de_stronghold",
+      "pos_x": -2786.798,
+      "pos_y": 2598.281,
+      "scale": 2.9476247,
+      "AltitudeMax": 16384,
+      "AltitudeMin": -16384
+    },
+    {
+      "map_name": "de_jura",
+      "pos_x": -2163,
+      "pos_y": 2390,
+      "scale": 2.5,
+      "AltitudeMax": 16384,
+      "AltitudeMin": -16384
+    }
+
+  ]
+}
